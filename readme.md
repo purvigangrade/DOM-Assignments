@@ -87,7 +87,7 @@ element.appendChild(btn2)
 Add the background color to all H3
 ## Output Image
 ---
-![Output Image]./DOM%20Assignment%202.0%201%2C2%2C3/secondAssignmentImage/task1Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/secondAssignmentImage/task1Output.png)
 
 ```JavaScript
 let element1 = document.querySelectorAll(".accordian")
