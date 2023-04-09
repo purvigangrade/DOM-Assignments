@@ -26,7 +26,7 @@ element.replaceWith(l1);
 Replacing the placeholder with "Search My Project" text"
 ## Output Image
 ---
-![Output Image]([./firstAssignmentImage/task2Output.png](https://github.com/purvigangrade/DOM-Assignments/blob/main/DOM%20Assignment%202.0%201,2,3/firstAssignmentImage/task2Output.png?raw=true))
+![Output Image]([./firstAssignmentImage/task2Output.png](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task2Output.png)
 
 ```JavaScript
 let select = document.querySelector(".search-field input");
@@ -38,7 +38,7 @@ select.placeholder = "Search My project"
 Changing the span elements
 ## Output Image
 ---
-![Output Image](./firstAssignmentImage/task3Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task3Output.png)
 
 ```JavaScript
 let element = document.querySelector("ul").children[2];
@@ -56,7 +56,7 @@ spanElement.children[4].innerHTML = "<span>iNeuron Intelligence Pvt Ltd.</span>"
 Add the Image
 ## Output Image
 ---
-![Output Image](./firstAssignmentImage/task4Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task4Output.png)
 
 ```JavaScript
 let image = document.querySelector(".hero-right-section img")
@@ -68,7 +68,7 @@ image.innerHTML = "<img src="https://hiteshchoudhary.com/static/a8d73d1aac4c79e9
 Add the support me button
 ## Output Image
 ---
-![Output Image](./firstAssignmentImage/task5Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task5Output.png)
 
 ```JavaScript
 let element = document.querySelector("ul").children[2];
@@ -87,7 +87,7 @@ element.appendChild(btn2)
 Add the background color to all H3
 ## Output Image
 ---
-![Output Image](./secondAssignmentImage/task1Output.png)
+![Output Image]./DOM%20Assignment%202.0%201%2C2%2C3/secondAssignmentImage/task1Output.png)
 
 ```JavaScript
 let element1 = document.querySelectorAll(".accordian")
@@ -101,7 +101,7 @@ for (let i=0; i<= h3array.length; i++){
 Add one more column of skills
 ## Output Image
 ---
-![Output Image](./secondAssignmentImage/task2Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/secondAssignmentImage/task2Output.png)
 
 ```JavaScript
 const tag = `
@@ -123,7 +123,7 @@ select.appendChild(newDiv);
 Add the placeholders
 ## Output Image
 ---
-![Output Image](./thirdAssignmentImage/task1Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/thirdAssignmentImage/task1Output.png)
 
 ```JavaScript
 //User Output Board
