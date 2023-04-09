@@ -26,7 +26,7 @@ element.replaceWith(l1);
 Replacing the placeholder with "Search My Project" text"
 ## Output Image
 ---
-![Output Image]([./firstAssignmentImage/task2Output.png](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task2Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task2Output.png)
 
 ```JavaScript
 let select = document.querySelector(".search-field input");
