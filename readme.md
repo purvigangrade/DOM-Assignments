@@ -5,7 +5,7 @@
 Adding "Hire Me" at the last of Menu and replacing "Projects" with "Contacts"
 ## Output Image
 ---
-![Output Image](./firstAssignmentImage/task1Output.png)
+![Output Image](./DOM%20Assignment%202.0%201%2C2%2C3/firstAssignmentImage/task1Output.png)
 
 ```JavaScript
 //To add "HIRE ME" to the list
